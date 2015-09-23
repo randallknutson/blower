@@ -1,6 +1,6 @@
 This module will search all package.json files for a property and return the merge results.
 
-===Usage===
+### Usage
 var blower = require('blower')(require);
 blower.implements('dependencies');
 
