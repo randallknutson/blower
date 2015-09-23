@@ -1,0 +1,14 @@
+{
+  "name": "blower",
+  "version": "1.0.0",
+  "description": "Allow dependencies to register components via the package.json files.",
+  "main": "blower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randall Knutson <randall@form.io>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
