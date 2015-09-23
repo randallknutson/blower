@@ -1,8 +1,10 @@
 This module will search all package.json files for a property and return the merge results.
 
 ### Usage
+```
 var blower = require('blower')(require);
 blower.implements('dependencies');
+```
 
 This will return all the dependencies of all node modules within the project in a merged object.
 
